@@ -58,7 +58,12 @@ If none match → **Computer Wins**
 
 Example:
 ```md
-![Home](assets/screenshots/home.png)
-![Result](assets/screenshots/result.png)
+<img width="496" height="631" alt="image" src="https://github.com/user-attachments/assets/d2969da2-7eed-4610-9626-eb3033856339" />
+<img width="501" height="630" alt="image" src="https://github.com/user-attachments/assets/f2fb8797-a4a4-4dc2-bfdf-26da19f4427f" />
+<img width="495" height="630" alt="image" src="https://github.com/user-attachments/assets/972d8593-298e-4da2-a9a4-fedaae9c15b7" />
+<img width="497" height="625" alt="image" src="https://github.com/user-attachments/assets/e327978e-a0a8-400d-b22b-04970e3d5db8" />
+
+
+
 
 
